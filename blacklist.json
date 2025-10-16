@@ -1,4 +1,3 @@
 {
-  "blacklisted_versions": ["0.9.0", "0.9.5, "1.0.0" ]
+  "blacklisted_versions": ["0.9.0", "1.0.0"]
 }
-
