@@ -70,5 +70,13 @@
     "issue": "Game failed to load after 8 seconds - automatic detection",
     "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "version": "1.2.0"
+  },
+  {
+    "timestamp": "2025-11-07T17:43:21.251Z",
+    "gameName": "bounce back",
+    "gameUrl": "https://js13kgames.com/games/bounce-back/index.html",
+    "issue": "blocked by school",
+    "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "version": "1.2.0"
   }
 ]
