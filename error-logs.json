@@ -182,5 +182,13 @@
     "issue": "Game won't load",
     "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "version": "1.2.0"
+  },
+  {
+    "timestamp": "2025-11-07T17:49:53.213Z",
+    "gameName": "doodle basketball",
+    "gameUrl": "https://www.google.com/logos/2019/july4th19/r6/july4th19.html?hl=en",
+    "issue": "Game won't load",
+    "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "version": "1.2.0"
   }
 ]
