@@ -22,5 +22,13 @@
     "issue": "broken/deleted iframe",
     "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "version": "1.2.0"
+  },
+  {
+    "timestamp": "2025-11-07T17:38:34.826Z",
+    "gameName": "bandit.rip",
+    "gameUrl": "https://bandit.rip/",
+    "issue": "blocked by school",
+    "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "version": "1.2.0"
   }
 ]
