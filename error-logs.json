@@ -1,0 +1,10 @@
+[
+  {
+    "timestamp": "2025-11-07T17:26:51.631Z",
+    "gameName": "astroid launcher",
+    "gameUrl": "https://neal.fun/asteroid-launcher/",
+    "issue": "Game is broken/doesn't work properly",
+    "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "version": "1.2.0"
+  }
+]
