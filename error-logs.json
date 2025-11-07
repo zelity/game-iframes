@@ -30,5 +30,13 @@
     "issue": "blocked by school",
     "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "version": "1.2.0"
+  },
+  {
+    "timestamp": "2025-11-07T17:39:15.164Z",
+    "gameName": "blockpost",
+    "gameUrl": "https://yohoho.io",
+    "issue": "Game won't load",
+    "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "version": "1.2.0"
   }
 ]
