@@ -38,5 +38,13 @@
     "issue": "leads to incorrect url",
     "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "version": "1.2.0"
+  },
+  {
+    "timestamp": "2025-11-07T17:40:16.399Z",
+    "gameName": "blocktanks.io",
+    "gameUrl": "https://blocktanks.io",
+    "issue": "Game is broken/doesn't work properly",
+    "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "version": "1.2.0"
   }
 ]
