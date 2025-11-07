@@ -134,5 +134,13 @@
     "issue": "Game failed to load after 8 seconds - automatic detection",
     "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
     "version": "1.2.0"
+  },
+  {
+    "timestamp": "2025-11-07T17:48:12.430Z",
+    "gameName": "cut the rope",
+    "gameUrl": "https://html5.gamedistribution.com/26d9c4da689e4b2599917eab8735a381/",
+    "issue": "broken link",
+    "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "version": "1.2.0"
   }
 ]
