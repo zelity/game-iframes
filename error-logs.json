@@ -310,5 +310,13 @@
     "issue": "Game failed to load after 8 seconds - automatic detection",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0",
     "version": "0.9.1"
+  },
+  {
+    "timestamp": "2026-04-28T16:26:09.678Z",
+    "gameName": "choppy orc",
+    "gameUrl": "https://mystifying-goodall-147690.netlify.app",
+    "issue": "Game failed to load after 8 seconds - automatic detection",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0",
+    "version": "0.9.1"
   }
 ]
