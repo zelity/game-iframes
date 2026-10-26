@@ -406,5 +406,13 @@
     "issue": "Game failed to load after 8 seconds - automatic detection",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0",
     "version": "0.9.1"
+  },
+  {
+    "timestamp": "2026-10-26T17:21:42.211Z",
+    "gameName": "minecraft",
+    "gameUrl": "https://sd592g.github.io/zj684od4lfg/",
+    "issue": "Game failed to load after 8 seconds - automatic detection",
+    "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+    "version": "0.9.1"
   }
 ]
