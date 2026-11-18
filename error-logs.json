@@ -462,5 +462,13 @@
     "issue": "Game failed to load after 8 seconds - automatic detection",
     "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
     "version": "0.9.1"
+  },
+  {
+    "timestamp": "2026-11-18T17:58:32.684Z",
+    "gameName": "grind craft",
+    "gameUrl": "https://grindcraft.com/game.php",
+    "issue": "Game failed to load after 8 seconds - automatic detection",
+    "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+    "version": "0.9.1"
   }
 ]
